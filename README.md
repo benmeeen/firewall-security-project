@@ -13,7 +13,7 @@ The goal was to harden a virtualized Linux environment by blocking unauthorized 
 - UFW (Uncomplicated Firewall)
 - Nmap (port scanning & validation)
 - Linux Command Line
-- Wireshark (for traffic verification, optional)
+
 
 ---
 
