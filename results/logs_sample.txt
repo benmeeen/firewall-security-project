@@ -1,0 +1,5 @@
+# UFW Logs Sample
+
+No firewall log entries were recorded at the time of testing.  
+This means no blocked or suspicious connection attempts occurred  
+while the firewall was active.  
