@@ -1,4 +1,4 @@
-# Commands Used – Ubuntu Firewall Security Lab
+# Commands Used – Ubuntu Firewall 
 
 ## 1. Install and Update
 sudo apt update && sudo apt upgrade -y
@@ -23,11 +23,15 @@ sudo systemctl disable cups
 sudo systemctl stop cups-browsed
 
 ## 5. Testing Firewall Rules
+```bash
 curl http://localhost:22
 curl http://localhost:9999
 curl http://localhost:8080
 telnet localhost 9999
 telnet localhost 8080
+```
+
+
 
 ## 6. Save Outputs to Files
 sudo ufw status verbose > ufw_rules.txt
