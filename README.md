@@ -32,7 +32,12 @@ The goal was to harden a virtualized Linux environment by blocking unauthorized 
 ## Results
 - Unauthorized ports were successfully blocked.  
 - Nmap confirmed only explicitly allowed services were open.  
-- Unnecessary services were disabled, reducing the attack surface.  
+- Unnecessary services were disabled, reducing the attack surface.
+
+ ### Visual Proof
+![Terminal Commands Part 1](screenshots/commands_part1.png)
+![Terminal Commands Part 2](screenshots/commands_part2.png)
+
 
 ---
 
