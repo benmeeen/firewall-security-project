@@ -18,7 +18,7 @@ The goal was to harden a virtualized Linux environment by blocking unauthorized 
 ---
 
 ## Steps Performed
-1. Installed Ubuntu Server in a virtual machine.  
+1. Installed Ubuntu Server ina virtual machine.  
 2. Configured UFW firewall rules:  
    - Default **deny incoming** connections.  
    - Default **allow outgoing** connections.  
@@ -46,6 +46,6 @@ The goal was to harden a virtualized Linux environment by blocking unauthorized 
 - Firewall configuration and management  
 - Port scanning and vulnerability validation  
 - System hardening best practices  
-- Technical documentation for reproducibility  
+- Understanding Technical documentation   
 
 ---
