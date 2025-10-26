@@ -3,7 +3,7 @@ This is my hands-on project demonstrating Linux firewall configuration, port sca
 # Ubuntu Firewall Security Lab 🔒
 
 ## Overview
-This project demonstrates configuring and testing a firewall on Ubuntu using **UFW (Uncomplicated Firewall)** and validating the setup with **Nmap**.  
+This project demonstrates configuring and testing a firewall on Ubuntu server using **UFW (Uncomplicated Firewall)** and validating the setup with **Nmap**.  
 The goal was to harden a virtualized Linux environment by blocking unauthorized access, only allowing necessary services, and disabling unused system processes.  
 
 ---
